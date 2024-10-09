@@ -6,8 +6,3 @@ when 'Mr.' then 'male'
 else 'unknow'
 end as gender
 FROM HR.Employees;
-
-Select Cust.custid
-from Sales.Customers as Cust
-Inner join
-Sales.Orders as Orders
