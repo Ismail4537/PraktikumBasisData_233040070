@@ -1,0 +1,1 @@
+Select * from dbo.mahasiswa where mahasiswa_id IN (Select mahasiswa_id from dpp_mahasiswa where status_pembayaran = 'lunas')

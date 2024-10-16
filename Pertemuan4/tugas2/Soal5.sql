@@ -1,0 +1,1 @@
+Select Distinct dosen_pengajar from dbo.jadwal_mata_kuliah

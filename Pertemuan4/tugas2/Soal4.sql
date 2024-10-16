@@ -1,0 +1,1 @@
+Select Top(5)jumlah_pembayaran from dbo.dpp_mahasiswa order by jumlah_pembayaran Desc

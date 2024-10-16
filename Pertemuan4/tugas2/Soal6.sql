@@ -1,0 +1,1 @@
+Select count(*) as matkul_h_senin from dbo.jadwal_mata_kuliah where hari = 'Senin'

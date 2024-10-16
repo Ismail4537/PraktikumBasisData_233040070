@@ -1,0 +1,1 @@
+Select count(mahasiswa_id) as jumlah_total_mahasiswa_informatika from dbo.mahasiswa where jurusan = 'Teknik Informatika'
