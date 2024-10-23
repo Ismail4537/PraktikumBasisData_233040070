@@ -1,0 +1,1 @@
+alter table mahasiswa add status_mahasiswa bit;
