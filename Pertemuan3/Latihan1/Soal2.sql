@@ -1,3 +1,4 @@
+use Pertemuan3;
 Select Cust.custid, count(Orders.orderid) as numorders, sum(Ordet.qty) as totalqty
 from Sales.Customers as Cust
 join

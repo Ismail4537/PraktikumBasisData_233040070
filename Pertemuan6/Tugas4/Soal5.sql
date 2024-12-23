@@ -1,3 +1,3 @@
-Select a.Name, b.ProjectName
+Select a.EmployeeName, b.ProjectName
 from Employee as a
 cross join Projects as b
